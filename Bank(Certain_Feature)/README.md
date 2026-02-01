@@ -1,4 +1,4 @@
-# Bank Project 🧮
+# Bank Project 🏦
 
 ## 🎥 Demo Video
 Click on the image to watch the demo 👇
