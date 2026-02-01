@@ -170,8 +170,11 @@ bool FindClientUsingAccountNumber(const string& AccountNumber) {
 
 		while (getline(MyFile ,Line)) {
 		
-			if (ConvertLineToRecord(Line).AccountNumber == AccountNumber)
+			if (ConvertLineToRecord(Line).AccountNumber == AccountNumber) {
+
+				MyFile.close();
 				return true;
+			}
 		}
 
 		MyFile.close();
@@ -191,8 +194,11 @@ bool FindClientUsingAccountNumber(const string& AccountNumber, sDataClients& Cli
 
 		while (getline(MyFile ,Line)) {
 		
-			if ((Client = ConvertLineToRecord(Line)).AccountNumber == AccountNumber)
+			if ((Client = ConvertLineToRecord(Line)).AccountNumber == AccountNumber) {
+
+				MyFile.close();
 				return true;
+			}
 		}
 
 		MyFile.close();
