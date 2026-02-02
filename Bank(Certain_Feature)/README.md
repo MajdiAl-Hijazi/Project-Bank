@@ -38,7 +38,9 @@ You can watch a demonstration of this program on YouTube [ here](https://youtu.b
 ---
 🔗 **Explore the enhanced features and full details of this project** [here](https://github.com/MajdiAl-Hijazi/Project-Bank/tree/main/Bank(Extension)).
 
-<br>
+---
+
+<!-- <br> -->
 
 <div align="center">
 
