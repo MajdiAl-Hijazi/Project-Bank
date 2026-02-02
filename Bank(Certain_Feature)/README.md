@@ -33,6 +33,7 @@ The program uses a **text file** (`Clients.txt`) to store client data and relies
 
 ## 🎥 Watch the Program in Action
 
-You can watch a demonstration of this program on [YouTube here](https://youtu.be/R4BVTaY0A20).
+You can watch a demonstration of this program on YouTube [ here](https://youtu.be/R4BVTaY0A20).
 
 ---
+🔗 **Explore the enhanced features and full details of this project** [here](https://github.com/MajdiAl-Hijazi/Project-Bank/tree/main/Bank(Extension)).
