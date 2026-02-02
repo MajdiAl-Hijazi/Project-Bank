@@ -37,3 +37,24 @@ You can watch a demonstration of this program on YouTube [ here](https://youtu.b
 
 ---
 🔗 **Explore the enhanced features and full details of this project** [here](https://github.com/MajdiAl-Hijazi/Project-Bank/tree/main/Bank(Extension)).
+
+<br>
+
+<div align="center">
+
+<h2>Majdi Al-Hijazi</h2>
+
+<!-- <br> -->
+
+<a href="https://github.com/MajdiAl-Hijazi" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/majdi-alhijazi-274947334" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
+</a>
+
+<a href="mailto:majdialhijazi@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
+
+</div>
