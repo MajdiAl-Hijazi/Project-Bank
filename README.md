@@ -17,8 +17,10 @@ A simple console-based Bank Management System built using C++.
 ## 👨‍💻 Technologies :
 - **C++**
 
-<br>
-  
+---
+
+<!-- <br> -->
+
 <div align="center">
 
 <h2>Majdi Al-Hijazi</h2>
@@ -37,3 +39,4 @@ A simple console-based Bank Management System built using C++.
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
 
 </div>
+
